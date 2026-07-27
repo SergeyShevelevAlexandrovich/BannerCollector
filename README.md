@@ -11,8 +11,23 @@ Terraria tModLoader mod for collecting banners efficiently.
 - Collect banners automatically.
 - Activate monster buffs without placing banners.
 - Support mod list
-  - Calamity mod
-  - Catalyst mod
+   1. Calamity
+   2. Calamity Fables
+   3. Catalyst mod
+   4. Thorium
+   5. Spirit Classic
+   6. Spirit Reforged
+   7. Vitality
+   8. Consolaria
+   9. Homeward Journey
+   10. Split
+   11. Elements Awoken
+   12. Mod of Redemption,
+   13. Secrets Of The Shadows
+
+- Commands:
+	- /discoverbanners - lets you check if supported banners for third-party mods are up to date
+	- /recoverbanners - lets you restore all banners you've collected during the game if you lose them due to a bug or similar issues
 
 ## 📥 Installation
 1. Install tModLoader.
